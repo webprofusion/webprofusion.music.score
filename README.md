@@ -1,0 +1,1 @@
+A C# model to represent a musical score - in this case for guitar. This code is part of Soundshed Guitar Toolkit.
